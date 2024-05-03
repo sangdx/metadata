@@ -1,0 +1,34 @@
+{
+    "name": "Brand",
+    "symbol": "BRT",
+    "description": "My nft collection",
+    "image": "https://cafefcdn.com/thumb_w/640/203337114487263232/2022/9/12/photo1662974015465-1662974015547433647874.jpg",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "value"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "creators's wallet address",
+                "share": 1
+            }
+        ],
+        "files": [
+            {
+                "type": "image/jpg",
+                "uri": "https://geeko-media.lesoir.be/wp-content/uploads/2023/09/NFT-1068x580.jpg"
+            },
+            {
+                "type": "image/png",
+                "uri": "https://img.unocero.com/2021/12/NFT-Bored-Ape-1024x1021.png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "BrandC",
+        "family": "family"
+    }
+}
